@@ -19,7 +19,8 @@ function increment(n) {
 }
 
 function decrement(n) {
-  return n --
+  n = n --
+  return n
 }
 
 console.log(increment(1))
