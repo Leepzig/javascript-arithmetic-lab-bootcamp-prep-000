@@ -15,7 +15,7 @@ function divide(num1, num2) {
 }
 
 function increment(n) {
-  n +=
+  n += 1
   return n
 }
 
