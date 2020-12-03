@@ -22,4 +22,4 @@ function decrement(n) {
   return n--
 }
 
-increment(1)
+console.log(increment(1))
