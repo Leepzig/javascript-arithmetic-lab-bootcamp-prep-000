@@ -24,4 +24,9 @@ function decrement(n) {
   return n
 }
 
+function makeInt(n) {
+  return parseInt(n)
+}
+
+function 
 console.log(increment(1))
