@@ -15,11 +15,11 @@ function divide(num1, num2) {
 }
 
 function increment(n) {
-  return n++
+  return n ++
 }
 
 function decrement(n) {
-  return n--
+  return n --
 }
 
 console.log(increment(1))
