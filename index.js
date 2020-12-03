@@ -28,5 +28,8 @@ function makeInt(n) {
   return parseInt(n)
 }
 
-function 
+function preserveDecimal(n) {
+  return parseFloat(n)
+}
+
 console.log(increment(1))
